@@ -25,7 +25,7 @@
 
 ## 🚀 About This Project
 
-**CLIX** is a minimalist implementation of a system shell. This project was developed as a hands-on exercise in C system programming.
+**CLIX** is a minimalist implementation of a system shell. This project was developed as a hands-on exercise in C system programming. I started with Code Crafters, but after a while I decided that I could do it myself.
 
 The primary goal was to understand how fundamental shell commands are built, how to interact with the file system at a low level, and how to handle user input/output using standard C libraries and system calls.
 
