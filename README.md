@@ -64,12 +64,12 @@ This project has no external dependencies other than a standard C compiler (like
 
 1.  **Clone the repository:**
     ```bash
-    [git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/spongeMan3-ctrl/clix-shell.git)
+    https://github.com/spongeMan3-ctrl/clix-shell.git
     ```
 
 2.  **Navigate to the directory:**
     ```bash
-    cd YOUR_REPO_NAME
+    cd clix-shell
     ```
 
 3.  **Compile the program:**
