@@ -109,3 +109,5 @@ A list of features that could be added to enhance CLIX:
 * [ ] **External Program Execution:** Use `fork()` and `execvp()` to allow CLIX to run other system programs (like `nano`, `python`, etc.).
 * [ ] **Pipes (`|`):** Add support for piping the output of one command to the input of another.
 * [ ] **I/O Redirection:** Implement `>` (stdout) and `<` (stdin) redirection.
+* [ ] 
+maybe for windows soon?
